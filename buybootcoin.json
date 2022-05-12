@@ -1,0 +1,19 @@
+http://localhost:8087/buybootcoin
+
+{
+    "clientId": 43462534,
+    "paymentMethod": 1,
+    "currencyID":1,
+    "amount": 600.0
+}
+
+//resultado
+//produce Kafka
+{
+    "id": "627d79ac0bff500dbfd7ee32",
+    "clientId": 43462534,
+    "paymentMethod": 1,
+    "currencyID": 1,
+    "amount": 600.0,
+    "dateTransaction": "2022-05-12T16:18:36.331"
+}

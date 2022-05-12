@@ -1,0 +1,52 @@
+http://localhost:8082/bankaccount/client/43462534
+[
+    {
+        "accountNumber": "197-2658546-71",
+        "typeClient": 1,
+        "codeClient": "43462534",
+        "typeAccount": {
+            "id": 3,
+            "description": "FIJO"
+        },
+        "currency": {
+            "id": 1,
+            "description": "SOL"
+        },
+        "membershipDate": "2022-05-02T15:10:40.693+00:00",
+        "main": null,
+        "balance": 0.0,
+        "card": {
+            "cardNumber": "1282112140502920",
+            "expiryDate": "15/05/2025",
+            "typeCard": {
+                "id": 1,
+                "description": "VISA DEBITO CLASICA"
+            }
+        }
+    },
+    {
+        "accountNumber": "627d5c54039f85dd186a5563",
+        "typeClient": 1,
+        "codeClient": "43462534",
+        "typeAccount": {
+            "id": null,
+            "description": "AHORRO"
+        },
+        "currency": {
+            "id": null,
+            "description": "SOL"
+        },
+        "membershipDate": null,
+        "main": true,
+        "balance": 0.0,
+        "card": {
+            "cardNumber": "1282112140520",
+            "expiryDate": null,
+            "typeCard": {
+                "id": null,
+                "description": "VISA DEBITO CLASICA"
+            }
+        }
+    }
+]
+

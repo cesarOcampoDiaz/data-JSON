@@ -1,0 +1,6 @@
+http://localhost:8088/salebootcoin
+
+//Consulmer Kafka al interno se obtiene el objeto se valida y guarda la transacción, por falta de tiempo no lo he mostrado
+{
+    "scanAvailable": true
+}

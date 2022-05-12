@@ -1,0 +1,21 @@
+//ADD
+//http://localhost:8086/buysale
+{
+    "date":"12/05/2022",
+     "purchaseAmount":5.0,
+     "saleAmount":5.3
+ }
+
+ //all
+ //http://localhost:8086/buysale
+ data:{"id":"627d2e93fdbd1306af704e99","date":"15/05/2022","purchaseAmount":5.0,"saleAmount":5.2}
+
+//busca por fecha de tasa de cambio
+ //http://localhost:8086/buysale/date/11-05-2022
+
+ {
+    "id": "627d2eb1fdbd1306af704e9a",
+    "date": "11/05/2022",
+    "purchaseAmount": 5.0,
+    "saleAmount": 5.2
+}

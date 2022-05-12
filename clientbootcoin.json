@@ -1,0 +1,23 @@
+//ADD
+//http://localhost:8085/clientbootcoin
+{
+    "id": 434625364,
+    "firstName": "cesar",
+    "lastName": "ocampo",
+    "direction": null,
+    "phone": "944857062",
+    "imei": "454887548889",
+    "email": "cheche@hotmail.com"
+}
+//all
+//http://localhost:8085/clientbootcoin
+
+{
+    "id": 434625364,
+    "firstName": "cesar",
+    "lastName": "ocampo",
+    "direction": null,
+    "phone": "944857062",
+    "imei": "454887548889",
+    "email": "cheche@hotmail.com"
+}
